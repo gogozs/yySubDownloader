@@ -1,0 +1,20 @@
+{
+
+	"langPriority" :[
+	"简体-英文-srt", "chs-eng-srt", 
+	"[^&]简体[^&]-srt", "[^&]chs[^&]-srt", 
+	"繁体-英文-srt", "cht-eng-srt", 
+	"[^&]繁体[^&]-srt", "[^&]cht[^&]-srt",
+	"[^&]英文[^&]-srt", "[^&]eng[^&]-srt",
+
+	"简体-英文-ass", "chs-eng-ass",
+	"[^&]简体[^&]-ass", "[^&]chs[^&]-ass",
+	"繁体-英文-ass", "cht-eng-ass",
+	"[^&]繁体[^&]-ass", "[^&]cht[^&]-ass",
+	"[^&]英文[^&]-ass","[^&]eng[^&]-ass"
+	],
+
+	"app": "/Applications/The Unarchiver.app/Contents/MacOS/The Unarchiver"
+}
+
+

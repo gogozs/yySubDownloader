@@ -1,0 +1,6 @@
+yysub.egg-info/PKG-INFO
+yysub.egg-info/SOURCES.txt
+yysub.egg-info/dependency_links.txt
+yysub.egg-info/entry_points.txt
+yysub.egg-info/requires.txt
+yysub.egg-info/top_level.txt
