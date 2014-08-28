@@ -28,8 +28,7 @@ yySubDownloader
 
 	"app": "/Applications/The Unarchiver.app/Contents/MacOS/The Unarchiver"
 }
-
-
+```
 
 ## 使用
 
